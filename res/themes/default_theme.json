@@ -1,0 +1,30 @@
+{
+    "description": "Deafult basic theme",
+    "version": "1.0",
+
+    "heading_ft_size_normal": 16,
+    "heading_ft_size_large": 18,
+    "heading_ft_size_small": 15,
+
+    "heading_weight_normal": "normal",
+    "heading_weight_thick": "thick",
+    "heading_weight_thin": "thin",
+
+    "heading_ft_family": "helvetica",
+
+    "paragraph_ft_size_normal": 13,
+    "paragraph_ft_size_large": 14,
+    "paragraph_ft_size_small": 12,
+
+    "paragraph_ft_family": "helvetica",
+
+    "bg_color_normal": "#222222",
+    "bg_color_dark": "#111111",
+    "bg_color_light": "#333333",
+
+    "txt_color_normal": "#EEEEEE",
+    "txt_color_dark": "#DDDDDD",
+    "txt_color_light": "#FFFFFF",
+
+    "separator_color": "#444444"
+}
